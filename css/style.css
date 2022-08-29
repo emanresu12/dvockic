@@ -499,7 +499,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(../img/ws7.jpg);
+  background-image: url(../img/2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -566,14 +566,7 @@ body.light hr.separator {
 
 .about .about-list .value {
   font-weight: 600;
-  color: #fff;
 }
-
-.about .about-list :hover{
-    text-decoration: none;
-    color: #ffb400;
-}
-
 
 /* Box Stats */
 
@@ -622,7 +615,7 @@ body.light hr.separator {
 
 .about .resume-box ul {
   margin: 0;
-  padding: 100px;
+  padding: 0;
   list-style: none;
 }
 
@@ -998,20 +991,13 @@ body.light hr.separator {
   padding-left: 50px;
   line-height: 21px;
   padding-top: 5px;
-  
 }
 
 .contact .custom-span-contact i {
   left: 0;
   top: 10px;
   font-size: 33px;
-  
 }
-
-.contact a{
-    color: #fff;  
-}
-
 
 .contact .custom-span-contact i.fa-phone-square {
   font-size: 39px;
@@ -1022,7 +1008,6 @@ body.light hr.separator {
   text-transform: uppercase;
   opacity: .8;
   font-weight: 400;
-  
 }
 
 .contact ul.social {
